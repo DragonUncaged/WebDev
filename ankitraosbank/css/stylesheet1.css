@@ -1,0 +1,137 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: linear-gradient(to bottom, rgba(91, 134, 227, 0.8), rgba(103, 105, 64, 0.8)), url(../image/homepageImg.jpg);
+	background-size: cover;
+	background-position: top;
+	height: 100vh;
+	position: relative;
+	font-family: "Montserrat", serif;
+}
+
+/* navbar */
+
+.navbar-brand {
+	font-family: "Poppins", sans-serif;
+	font-size: 1.5rem;
+}
+
+.nav-item {
+	padding: 0 12px 0 0;
+}
+
+.nav-link {
+	font-size: 1rem;
+	font-weight: 300;
+}
+
+.hero-content {
+	font-family: "Poppins", Arial, Helvetica, sans-serif;
+	color: #f5ebde;
+	text-align: center;
+	padding-top: 4rem;
+}
+
+.home-heading {
+	font-weight: 500;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+.home-para {
+	padding-top: 2rem;
+}
+
+.get-started {
+	border-radius: 0.5rem;
+	padding: 1rem 2rem;
+	font-size: 162%;
+	background-color: #ff8a65;
+	color: #ff8a65;
+	transition: 0.3s;
+}
+
+.get-started:hover {
+	text-decoration: none;
+	background-color: #486e6c;
+}
+
+.get-started-content {
+	height: 60vh;
+	background-color: #ff8a65;
+	border-radius: 42rem;
+}
+
+.get-started-content .row {
+	padding: 25vh 0;
+}
+
+.get-started-content a {
+	border-radius: 0.5rem;
+	padding: 1rem 2rem;
+	font-size: 162%;
+	background-color: #ff8a65;
+	color: #f5ebde;
+	transition: 0.3s;
+}
+
+.get-started-content a:hover {
+	background-color: #ff8a65;
+	text-decoration: none;
+}
+
+.btn1 {
+	background: #df2141;
+	display: inline-block;
+	color: #f5ebde;
+	padding: 8px 30px;
+	margin: 30px 10px;
+	border-radius: 10px;
+	border-style: none;
+	text-decoration: none;
+}
+
+.btn2
+{
+	background:#d15318;
+}
+
+/* CUSTOMERS */
+
+.my-balance {
+	padding: 2rem 5rem;
+	color: #f5ebde;
+}
+
+.modal-dialog {
+	margin-top: 50px;
+}
+
+.table-main {
+	background: #1192e9c7;
+	color: #f5ebde;
+}
+
+.table-even {
+	background: #e282d2;
+}
+
+.table-odd {
+	background: #a9c461;
+}
+
+.btn {
+	background: #0986ecb2;
+	display: block;
+	color: #f5ebde;
+	font-size: 20px;
+	padding: 15px 30px;
+	border-radius: 30px;
+	border-style: none;
+	margin-left: auto;
+	margin-right: auto;
+}
