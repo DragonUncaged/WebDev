@@ -8,9 +8,8 @@
 <li> Have minimum functionalities and effects working
 
 #### Style guide :
-  <br>
 
-  <br>
+![Demo](https://github.com/DragonUncaged/WebDev/blob/main/Instagram-Clone-Project/clone-demo.gif) 
   
 #### Body
   
